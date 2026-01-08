@@ -1,1 +1,1 @@
-Git branch commit A
+Git stashed branch
