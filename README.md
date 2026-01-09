@@ -1,3 +1,2 @@
-Git commit D
-Git stashed branch
-Git commit D
+Git stashed
+Git squash/merge/rebase
